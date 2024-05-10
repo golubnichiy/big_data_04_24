@@ -4,5 +4,3 @@ Big Data, Hadoop, and Spark Basics
 https://learning.edx.org/course/course-v1:IBM+BD0225EN+2T2021/home
 
 Hands-on Lab: Hadoop Map Reduce
-
-https://docs.google.com/spreadsheets/d/1GQUXdFSjG5d3pUc3eyMsm3DhlgJEAD6EKhcw64PHU40/edit#gid=0
